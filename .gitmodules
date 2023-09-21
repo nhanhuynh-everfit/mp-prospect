@@ -1,3 +1,4 @@
 [submodule "src/shared"]
 	path = src/shared
 	url = git@github.com:nhanhuynh-everfit/lib.git
+	branch = develop
